@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Crm">
+    <output-path>$PROJECT_DIR$/out/artifacts/Crm</output-path>
+    <root id="root">
+      <element id="archive" name="Crm.jar">
+        <element id="module-output" name="Crm" />
+      </element>
+    </root>
+  </artifact>
+</component>
